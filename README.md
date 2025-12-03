@@ -1,0 +1,61 @@
+#Blender 2.79 for ARMv7 devices.
+
+
+
+##About
+
+Welcome to Blender, the free, open source 3D application for modeling, animation, rendering, compositing, video editing and game creation. Blender is available for Linux, Mac OS X and Windows and has a large world-wide community.
+
+Blender can be used freely for any purpose, including commercial use and distribution. It's free and open-source software, released under the GNU GPL licence. The entire source code is available on our website.
+
+For more information, visit blender.org.
+
+
+
+##About this version of blender
+
+This version was compiled using the code found on this site.
+
+
+
+##Bugs
+
+Although this is considered a stable release, you may encounter a bug. If you do,
+oplease help us by posting it in the bug tracker or using Help → Report a Bug from inside Blender. 
+If it wasn’t reported yet, please log in (or register) and fill in detailed information about the error. 
+Please post detailed instructions on how to reproduce it or post a .blend file showcasing the bug.
+
+
+
+Package Contents
+
+The downloaded Blender package includes:
+
+• The Blender application for the chosen operating system.
+
+• Scripts for importing and exporting to other 3d formats.
+
+• Readme and copyright files.
+
+
+
+Installation
+
+
+Linux: Unpack the archive, then run the Blender executable.
+
+
+Installing Addons (all systems) Addons can be installed from the user preferences addons section, 
+download an addon as a .py or .zip file, then press the "Install Addon" button and select the file to install it.
+
+
+
+##Getting Started
+
+
+
+Blender is open-source and free for all to use.
+
+
+
+Enjoy.
