@@ -1,4 +1,4 @@
-# Blender 2.79 for ARMv7 devices.
+# Blender 2.79 for Linux ARMv7 devices.
 
 
 
