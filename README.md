@@ -14,7 +14,7 @@ For more information, visit blender.org.
 
 ## About this version of blender
 
-This version was compiled using the code found on this site.
+This version was compiled using the code found on the following website https://github.com/blender/blender-addons/releases/tag/v2.79.
 
 
 
