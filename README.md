@@ -14,16 +14,13 @@ For more information, visit blender.org.
 
 ## About this version of blender
 
-This version was compiled using the code found on the following website https://github.com/blender/blender-addons/releases/tag/v2.79.
+This version is unofficial but was compiled using the code found on the following website: https://github.com/blender/blender-addons/releases/tag/v2.79.
 
 
 
 ## Bugs
 
-Although this is considered a stable release, you may encounter a bug. If you do,
-oplease help us by posting it in the bug tracker or using Help → Report a Bug from inside Blender. 
-If it wasn’t reported yet, please log in (or register) and fill in detailed information about the error. 
-Please post detailed instructions on how to reproduce it or post a .blend file showcasing the bug.
+The version obtained with this configuration is expected to contain errors.
 
 
 
