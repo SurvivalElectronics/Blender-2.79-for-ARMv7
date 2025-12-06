@@ -24,7 +24,7 @@ The version obtained with this configuration is expected to contain errors.
 
 
 
-Package Contents
+## Package Contents
 
 The downloaded Blender package includes:
 
@@ -36,7 +36,7 @@ The downloaded Blender package includes:
 
 
 
-Installation
+## Installation and compilation
 
 
 Linux: Unpack the archive, then run the Blender executable.
