@@ -14,8 +14,15 @@ For more information, visit blender.org.
 
 ## About this version of blender
 
-This version is unofficial but was compiled using the code found on the following website: https://github.com/blender/blender-addons/releases/tag/v2.79.
+This version is unofficial but was compiled using the code found on the following websites: 
 
+https://github.com/blender/blender/releases/tag/v2.76b
+
+and
+
+https://github.com/blender/blender-addons/releases/tag/v2.79.
+
+I'm a regular user and not part of the official Blender development team. I enjoy compiling code. I tried compiling Blender for ARMv7, it worked, and I'm sharing it here.
 
 
 ## Bugs
