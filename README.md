@@ -20,7 +20,7 @@ This version is unofficial but was compiled using the code found on the followin
 
 ## Bugs
 
-The version obtained with this configuration is expected to contain errors.
+The version of blender obtained with this configuration is not thoroughly tested, therefore it will have errors.
 
 
 
