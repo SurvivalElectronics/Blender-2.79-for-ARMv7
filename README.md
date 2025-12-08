@@ -16,7 +16,7 @@ For more information, visit blender.org.
 
 This version is unofficial but was compiled using the code found on the following websites: 
 
-https://github.com/blender/blender/releases/tag/v2.76b
+https://github.com/blender/blender/releases/tag/v2.79
 
 and
 
