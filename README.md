@@ -46,12 +46,9 @@ The downloaded Blender package includes:
 ## Installation and compilation
 
 
-Linux: Unpack the archive, then run the Blender executable.
+The installation process is here https://youtube.com/shorts/ZE4-tCnDx9Q?si=XSLPG1xEaPzQhtHC on my YouTube channel.
 
-
-Installing Addons (all systems) Addons can be installed from the user preferences addons section, 
-download an addon as a .py or .zip file, then press the "Install Addon" button and select the file to install it.
-
+The video on how to compile this is currently being created.
 
 
 ## Getting Started
