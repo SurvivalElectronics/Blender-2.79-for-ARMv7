@@ -48,7 +48,9 @@ The downloaded Blender package includes:
 
 The installation process is here https://youtube.com/shorts/ZE4-tCnDx9Q?si=XSLPG1xEaPzQhtHC on my YouTube channel.
 
-The video on how to compile this is currently being created.
+The compilation process is here 
+https://youtube.com/shorts/nG_HNcu_mRY?si=9sLIKF5w1JZtnZSy
+on my YouTube channel.
 
 
 ## Getting Started
